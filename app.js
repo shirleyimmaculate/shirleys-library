@@ -1,0 +1,1 @@
+// placeholder for React app entry point
