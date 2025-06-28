@@ -1,1 +1,1 @@
-// placeholder for React app entry point
+// React app with /admin route

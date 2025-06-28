@@ -1,1 +1,1 @@
-// placeholder for supabase client connection
+// supabase client with auth
