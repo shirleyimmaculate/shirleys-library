@@ -1,1 +1,1 @@
-// Admin dashboard logic for managing books
+// Admin dashboard: login, book table, edit forms, auth-protected

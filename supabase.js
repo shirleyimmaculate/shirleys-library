@@ -1,1 +1,1 @@
-// supabase client with auth
+// Supabase client setup with your project's URL and anon key
