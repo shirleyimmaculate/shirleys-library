@@ -1,2 +1,2 @@
-# Shirley's Library (React Admin)
-This version includes admin dashboard logic with Supabase Auth.
+# Shirley's Library
+Final React App with admin portal and routing.

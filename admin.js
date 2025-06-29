@@ -1,1 +1,1 @@
-// Admin dashboard: login, book table, edit forms, auth-protected
+// Admin page with Supabase Auth and book manager

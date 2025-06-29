@@ -1,1 +1,1 @@
-// React app entry point with admin route and Supabase Auth integration
+// React app with routing using React Router
