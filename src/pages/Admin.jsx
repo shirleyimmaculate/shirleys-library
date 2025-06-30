@@ -1,4 +1,3 @@
-
 import { supabase } from '../supabase'
 import Login from '../components/Login'
 import BookManager from '../components/BookManager'
