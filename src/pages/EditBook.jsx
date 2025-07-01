@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-console.log("🟢 EditBook loaded")
 import { supabase } from '../supabase'
 import { useSearchParams } from 'react-router-dom'
 
